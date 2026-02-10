@@ -1,107 +1,92 @@
-# 👋 Hi, I'm Vaseem Khan 👨‍💻
+# 👋 Hello, I'm **Pathan Vaseem Khan**
 
-🎓 *BTech CSE Student* at RGUKT R.K. Valley  
-💻 *Full-Stack Web Developer (In Progress)*  
-📊 Future *Data Scientist / AI Web Engineer*  
-🌍 Aspiring to study & work abroad (UK 🇬🇧)  
+🎓 **BTech in Computer Science & Engineering** — RGUKT R.K. Valley  
+💻 **Full-Stack Web Developer (In Progress)**  
+📊 Exploring **Data Science & AI Web Applications**  
+🌍 Long-term goal: **Study & Work Abroad (UK 🇬🇧)**
 
-I love building *real-world projects*, not just watching tutorials.
+I build real projects with clean code, learn consistently, and share my progress.
 
 ---
 
 ## 🧠 About Me
 
-- 🌱 Currently mastering *Full-Stack Web Development*
-- 🔁 Transitioning from *Web → Data Science → AI-powered products*
-- 🧩 Strong interest in *problem-solving & system design*
-- 📚 Actively practicing *DSA + core CS fundamentals*
-- 🚀 Goal: Build scalable tech products & work globally
+- 🌱 Currently improving **Full-Stack Development**
+- 🔁 Exploring **Data Science & Machine Learning**
+- 📈 Practicing **DSA actively**
+- 💼 Goal: Build impactful tech products
+- 🚀 Open to internships & collaboration
 
 ---
 
 ## 🛠 Tech Stack
 
 ### 💻 Frontend
-- HTML5  
-- CSS3  
-- Bootstrap  
-- JavaScript  
+HTML • CSS • Bootstrap • JavaScript
 
 ### ⚙️ Backend
-- PHP  
-- MySQL  
+PHP • MySQL
 
-### 📊 Data & Tools
-- Python (Data Science – beginner)
-- Git & GitHub
-- VS Code
-- Linux (basic)
+### 🐍 Tools & Languages
+Python (basics — DS/ML), Git & GitHub, VS Code, Linux (basic)
 
 ---
 
-## 🚀 Featured Projects
+## 📁 Featured Projects
 
-### 📌 CSE Smart Attendance Management System
-*QR Code–based attendance system for colleges*
+### 📌 CSE Smart Attendance Management System  
+**QR-based Attendance System for College**  
+- Faculty login panel  
+- QR generation & tracking  
+- Student attendance scan  
+- Date-wise & subject-wise reports  
+- Export attendance Excel / PDF
 
-- Faculty login & QR generation  
-- Student QR scan for real-time attendance  
-- Subject-wise & date-wise tracking  
-- Attendance export (Excel/PDF)  
-- Proxy attendance prevention  
+🔗 **Live Demo:** https://docker-wtproject.onrender.com  
+🛠 Tech: PHP, MySQL, JS, HTML, CSS, Bootstrap  
 
-🔗 *Live Demo:* https://docker-wtproject.onrender.com  
-🛠 *Tech:* PHP, MySQL, JavaScript, HTML, CSS, Bootstrap  
-
-👉 More advanced projects coming soon…
-
----
-
-## 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
+*(More quality projects coming soon...)*
 
 ---
 
-## 🧠 Coding Practice
+## 📊 GitHub Stats
 
-### 💡 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaasp12233&show_icons=true&theme=tokyonight)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaasp12233&layout=compact&theme=tokyonight)
 
-## 🏆 Achievements & Focus Areas
-
-- ✅ Built & deployed a *full-stack live project*
-- 📈 Improving *DSA & problem-solving consistency*
-- 🌱 Learning *Data Science + ML foundations*
-- 🎯 Preparing for *higher studies & global opportunities*
+![GitHub Streak](https://streak-stats.demolab.com?user=vaasp12233&theme=tokyonight)
 
 ---
 
-## 🌍 Career Vision
+## 💻 Coding Profiles
 
-- 🎓 Pursue *PG / MS abroad (UK preferred)*
-- 💼 Work as a *Software / Data Engineer*
-- 🧠 Build *AI-driven web platforms*
-- 🌐 Contribute to meaningful, scalable tech
+### 💡 LeetCode
+![LeetCode Stats](https://leetcard.jacoblin.cool/lWrrEMQ1u1?theme=dark&font=Karma)  
+🔗 https://leetcode.com/u/lWrrEMQ1u1/
+
+### 🟢 GeeksforGeeks
+![GeeksforGeeks Stats](https://gfgstatscard.vercel.app/vaseemladix)  
+🔗 https://www.geeksforgeeks.org/profile/vaseemladix?tab=userhandle
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN  
-- 🐙 GitHub: https://github.com/YOUR_GITHUB_USERNAME  
-- 📧 Email: (optional)
+- 💼 **LinkedIn:** https://www.linkedin.com/in/vaseem-khan-pathan-047697303  
+- 🐙 **GitHub:** https://github.com/vaasp12233  
+- 🐦 **X (Twitter):** https://x.com/VaseemKhan94465  
+- 📧 **Email:** vaseemlaptop@gmail.com  
 
 ---
 
-## ⚡ Fun Facts
+## 🌟 Fun Facts
 
-- ☕ Runs on coffee & late-night debugging  
-- 🧠 Loves tech, space, physics & future concepts  
-- 📌 Believes *discipline > motivation*
+- ☕ Powered by coffee and curiosity  
+- 🧠 I enjoy solving problems, building systems  
+- 📌 I believe in **consistency > Talent**
+
+---
+
+⭐️ *If you like my work, feel free to star my repositories!*  
+🤝 *Open to collaborations and learning opportunities.*
