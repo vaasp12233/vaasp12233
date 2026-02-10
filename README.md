@@ -1,6 +1,4 @@
 # 👋 Hello, I'm **Pathan Vaseem Khan**
-![Profile Views](https://komarev.com/ghpvc/?username=vaasp12233&label=Profile%20Views&color=blue&style=flat)
-
 
 🎓 **BTech in Computer Science & Engineering** — RGUKT R.K. Valley  
 💻 **Full-Stack Web Developer (In Progress)**  
